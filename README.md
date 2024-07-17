@@ -10,11 +10,11 @@
 2. Open the folder in VS Code.
 3. Java dependencies will be loaded automatically. After loading, click on `JAVA PROPERTIES`.
 
-    ![JAVA PROPERTIES](path/to/java-properties-image.png)
+    ![JAVA PROPERTIES](https://github.com/samsonthomas951/RegistrationForm-java/blob/main/java.png)
 
 4. Click on `Referenced Libraries` to add J Connector to the class path.
 
-    ![Referenced Libraries](path/to/referenced-libraries-image.png)
+    ![Referenced Libraries](https://github.com/samsonthomas951/RegistrationForm-java/blob/main/Library.png)
 
 5. Navigate to the folder where you placed your connector and select the `mysql-connector-j-9.0.0.jar` file.
 
@@ -31,6 +31,10 @@ CREATE TABLE users (
     Contact VARCHAR(15) NOT NULL
 );
 ```
+
+###APP
+![App](https://github.com/samsonthomas951/RegistrationForm-java/blob/main/RegistrationForm.png)
+
 
 #### Database Connection 
 
