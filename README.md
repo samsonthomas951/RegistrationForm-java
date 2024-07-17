@@ -32,12 +32,11 @@ CREATE TABLE users (
 );
 ```
 
-###APP
-![App](https://github.com/samsonthomas951/RegistrationForm-java/blob/main/RegistrationForm.png)
-
-
 #### Database Connection 
 
 ```java
 Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/registration_db", "root", "");
 ```
+
+### APP
+![App](https://github.com/samsonthomas951/RegistrationForm-java/blob/main/RegistrationForm.png)
